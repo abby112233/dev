@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dev</string>
+
+    <string name="failed">fail with signing in</string>
+</resources>
